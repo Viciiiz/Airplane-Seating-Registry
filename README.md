@@ -10,7 +10,7 @@ The user passes the desired number of rows, columns, and sections to the constru
 
 <br>
 
-For 4 rows, 8 columns and 4 sections, the result should give an output similar to:
+For 4 rows, 12 columns and 4 sections, the result should give an output similar to:
 <br>
 <br>
 <img src = "Cmd_output.PNG" alt = "Cmd_output.PNG in the repository..."/>
